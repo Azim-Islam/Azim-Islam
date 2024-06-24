@@ -18,7 +18,7 @@ A project to find people within the UAP community.
 - **Stars:** ![GitHub stars](https://img.shields.io/github/stars/UAP-PEOPLE-FINDER/UAP-PEOPLE-FINDER?style=social)
 
 #### [Problem-Solving-DSA](https://github.com/Azim-Islam/Problem-Solving-DSA)
-A repository containing various data structures and algorithms problems solved.
+A repository containing more than 1000 solved data structures and algorithms problems.
 - **Tech Stack:** Python, Java, C++, Rust, JavaScript
 - **Stars:** ![GitHub stars](https://img.shields.io/github/stars/Azim-Islam/Problem-Solving-DSA?style=social)
 
