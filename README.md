@@ -1,6 +1,6 @@
 # Hi there, I'm Azim Islam 👋
 
-## A passionate developer & problemsolver with experience who loves solving problems and building fast & effective solutions.
+## A passionate developer and problem solver with experience, who loves building fast and effective solutions.
 
 ### 🛠️ Technologies & Tools
 
