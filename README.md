@@ -4,7 +4,7 @@
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** Python, Java, C/C++, Rust, x86 Assembly, CSS
+- **Languages:** Python, RegularExpression, Java, C/C++, Rust, x86 Assembly, CSS
 - **Frameworks & Libraries:** Django, JavaFX, OpenGL, Pandas, Sk-Learn, SQLite
 - **Tools:** Bash, Git, Curl, GitHub, VS Code, Clion, Intellij
 
