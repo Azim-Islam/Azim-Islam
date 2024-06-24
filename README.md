@@ -37,19 +37,11 @@ A web-based SQLite CRUD application written in Python3.
 - [Coin-Change-Simulation-App](https://github.com/Azim-Islam/Coin-Change-Simulation-App) - Python
 - [Rabin-Karp-Simulation-App](https://github.com/Azim-Islam/Rabin-Karp-Simulation-App) - Python
 
-### 📈 GitHub Stats
-
-![Azim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azim-Islam&show_icons=true&theme=radical)
 
 ### 📫 Get in Touch
 
 - **Facebook:** [Azim Islam](https://www.facebook.com/ANHW.ogg/)
 - **Email:** azimislam5@gmail.com
 
-### 🏆 Achievements
-
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Azim-Islam&theme=onedark)
-![Profile Views](https://komarev.com/ghpvc/?username=Azim-Islam&color=blue)
----
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
