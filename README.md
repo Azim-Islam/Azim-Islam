@@ -1,16 +1,12 @@
 # Hi there, I'm Azim Islam 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Azim-Islam&color=blue)
-
-## 🏠 Working from Home
-
-A passionate developer & problemsolver with experience in various programming languages and tech stacks. I love solving problems and building fast & effective solutions.
+## A passionate developer & problemsolver with experience who loves solving problems and building fast & effective solutions.
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** Python, Java, CSS
-- **Frameworks & Libraries:** JavaFX, SQLite
-- **Tools:** Git, GitHub, VS Code
+- **Languages:** Python, Java, C/C++, Rust, x86 Assembly, CSS
+- **Frameworks & Libraries:** Django, JavaFX, SQLite
+- **Tools:** Bash, Git, GitHub, VS Code
 
 ### 📚 Featured Projects
 
@@ -18,23 +14,23 @@ Here are some of the projects I've worked on:
 
 #### [UAP-PEOPLE-FINDER](https://github.com/Azim-Islam/UAP-PEOPLE-FINDER)
 A project to find people within the UAP community.
-- **Tech Stack:** CSS
+- **Tech Stack:** Django, Python, Django-Channels, JavaScript, HTML5, CSS3.
 - **Stars:** ![GitHub stars](https://img.shields.io/github/stars/Azim-Islam/UAP-PEOPLE-FINDER?style=social)
 
 #### [Problem-Solving-DSA](https://github.com/Azim-Islam/Problem-Solving-DSA)
 A repository containing various data structures and algorithms problems solved in Python.
-- **Tech Stack:** Python
+- **Tech Stack:** Python, Java, C++, Rust, JavaScript
 - **Stars:** ![GitHub stars](https://img.shields.io/github/stars/Azim-Islam/Problem-Solving-DSA?style=social)
 
 #### [UAP-Bazar-JavaFX-Application](https://github.com/Azim-Islam/UAP-Bazar-JavaFX-Application)
-A JavaFX application for managing a bazar.
-- **Tech Stack:** Java
+A JavaFX dekstop application for managing a E-Commerce platform.
+- **Tech Stack:** Java, JavaFX
 - **Stars:** ![GitHub stars](https://img.shields.io/github/stars/Azim-Islam/UAP-Bazar-JavaFX-Application?style=social)
 
 #### [python-SQLite-CRUD-WebApp](https://github.com/Azim-Islam/python-SQLite-CRUD-WebApp)
 A web-based SQLite CRUD application written in Python3.
-- **Tech Stack:** Python
-- **Description:** A comprehensive web application for managing SQLite databases.
+- **Tech Stack:** Python, Django, Streamlit
+- **Description:** A simple web application for managing SQLite databases for educational purposes.
 
 ### 🌟 Other Notable Projects
 
@@ -47,13 +43,13 @@ A web-based SQLite CRUD application written in Python3.
 
 ### 📫 Get in Touch
 
-- **LinkedIn:** [Azim Islam](https://www.linkedin.com/in/azim-islam/)
-- **Email:** azimislam@example.com
+- **Facebook:** [Azim Islam](https://www.facebook.com/ANHW.ogg/)
+- **Email:** azimislam5@gmail.com
 
 ### 🏆 Achievements
 
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Azim-Islam&theme=onedark)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Azim-Islam&color=blue)
 ---
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
