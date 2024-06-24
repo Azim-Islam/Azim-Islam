@@ -12,7 +12,7 @@
 
 Here are some of the projects I've worked on:
 
-#### [UAP-PEOPLE-FINDER](https://github.com/Azim-Islam/UAP-PEOPLE-FINDER)
+#### [UAP-PEOPLE-FINDER](https://github.com/UAP-PEOPLE-FINDER/UAP-PEOPLE-FINDER)
 A project to find people within the UAP community.
 - **Tech Stack:** Django, Python, Django-Channels, JavaScript, HTML5, CSS3.
 - **Stars:** ![GitHub stars](https://img.shields.io/github/stars/Azim-Islam/UAP-PEOPLE-FINDER?style=social)
